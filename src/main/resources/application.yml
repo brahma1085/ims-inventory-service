@@ -23,9 +23,10 @@ spring:
 
 keycloak:
    server-url: http://keycloak:8080
+
    realm: microservices-realm
    admin-client-id: inventory-admin
-   admin-client-secret: MXrleUgNxUfVFWonFCn4ntpGiE983KX5
+   admin-client-secret: 6wazlFFlbZ4d6W2HouoTiW5Rpuow6Lv4
 
 springdoc:
  swagger-ui:
